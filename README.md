@@ -1,2 +1,2 @@
 # beauty
-springmvc restful 
+springmvc+restful+mybatis+redis
